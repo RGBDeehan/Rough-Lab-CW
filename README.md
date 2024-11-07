@@ -40,7 +40,7 @@ C-03 : Input distance travel in(fractional kilometre) and waiting time in a taxi
 
 C-04 : Input radius and light of a cylinder and display the volume.
 
-C-05 : Input archery delete number and display each digit separately.
+C-05 : Input a three digit number and display each digit separately.
 
 
 
