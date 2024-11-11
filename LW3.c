@@ -2,7 +2,7 @@
 int main(){
 float x;
     printf("Enter the age: ");
-    scanf("%f",x);
+    scanf("%f",&x);
 
 if(x >= 13 && x <= 19 ){
         printf("He/She is a teenager");
