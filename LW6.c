@@ -2,7 +2,7 @@
 int main(){
 float x , y;
     printf("Enter the amount of sallary: ");
-    scanf("%f",x);
+    scanf("%f",&x);
 
     if ( x <= 10000) {
        y = x+(x *0.2 *0.8);
