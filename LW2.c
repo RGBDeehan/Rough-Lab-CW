@@ -2,7 +2,7 @@
 int main(){
 float x;
     printf("Enter the age: ");
-    scanf("%f",x);
+    scanf("%f",&x);
 
 if(x >= 18 ){
         printf("He/She is a voter");
