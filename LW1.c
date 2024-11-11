@@ -2,7 +2,7 @@
 int main(){
 float x;
     printf("Enter the number: ");
-    scanf("%f",x);
+    scanf("%f",&x);
 
     if ( x % 5 == 0) {
         printf("The number is divisible by 5");
