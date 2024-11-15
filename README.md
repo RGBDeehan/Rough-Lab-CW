@@ -14,7 +14,7 @@ Volume=3.14*r*r*h.
 P-5. Write a program to input principal, rate and time and calculate Simple Interest.
 SimpleInterest=Principal*Rate*Time/100
 
-P-6. Write a program to convert temperature from Celsius to Fahrenheit. F=C*9/5+32
+P-6. Write a program to convert temperature from Celsius to Fahrenheit. F=(C*1.8)+32
 
 P-7. Write a program to Input distance (in km) and convert in meter, feet, inches and centimeter.
 
