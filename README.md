@@ -9,7 +9,7 @@ P-3. Write a program to input radius and calculate area of circle and circumfere
 Area of circle = 3.14 .*r .*r, Circumference of circle = 2 .*3.14 .*r.
 
 P-4. Write a program to input radius and height of a cylinder and calculate volume of cylinder.
-Volume=3.14*r*r*h.
+Volume=3.14 .*r .*r .*h.
 
 P-5. Write a program to input principal, rate and time and calculate Simple Interest.
 SimpleInterest=Principal*Rate*Time/100
