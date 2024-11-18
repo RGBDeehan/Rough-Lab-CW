@@ -6,7 +6,7 @@ P-2. Write a program to input length and breadth of a rectangle and calculate it
 Area=Length*Breadth.
 
 P-3. Write a program to input radius and calculate area of circle and circumference of a circle.
-Area of circle = 3.14*r *r, Circumference of circle = 2*3.14*r.
+Area of circle = 3.14 *r *r, Circumference of circle = 2*3.14*r.
 
 P-4. Write a program to input radius and height of a cylinder and calculate volume of cylinder.
 Volume=3.14*r*r*h.
