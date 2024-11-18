@@ -16,7 +16,10 @@ SimpleInterest=Principal*Rate*Time/100
 
 P-6. Write a program to convert temperature from Celsius to Fahrenheit. F=(C*1.8)+32
 
-P-7. Write a program to Input distance (in km) and convert in meter, feet, inches and centimeter.
+P-7. Write a program to Input distance (in km) and convert in meter, feet, inches and centimeter. [ meters = km * 1000;
+    centimeters = km * 100000;
+    inches = km * 39370.1;
+    feet = km * 3280.84;]
 
 P-8. Write a program to Input minutes and convert in hours and minutes.
 
