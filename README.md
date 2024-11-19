@@ -35,7 +35,7 @@ are A, B, C, and D then find (A-B)/(C-D).
 
 LAB Work C-5
 
-C-01 : Input time in our and minute and display angle found by a analogue clock two hand.
+C-01 : Input time in hour and minute and display angle found by a analogue clock two hand.
 
 C-02 : Suppose you are in front of an elevated and you are in person if elevator can accommodate 8 person then in which stunt you can ever the elevator.
 
