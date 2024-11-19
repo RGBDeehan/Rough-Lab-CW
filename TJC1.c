@@ -6,7 +6,8 @@ int Hour, Minute, Hour_angle, Minute_angle, diff_btwn_two_hand ;
 
     printf("Enter Minute (0-59): ");
     scanf("%d", & Minute);
- Hour_angle =(Hour*30) + (Minute*0.5);
+ Hour_angle =(Hour*30) + (Minute*0.5); 
+    // Hour_angle=(Hour*30)+(Minutes/60)*30; //
 
  Minute_angle =(Minute*6);
 diff_btwn_two_hand = (Hour_angle - Minute_angle);
