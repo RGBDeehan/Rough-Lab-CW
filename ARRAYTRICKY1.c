@@ -1,6 +1,10 @@
 #include <stdio.h>
 int main(){
-int i,x[10],a,b,j,max_even,max_odd;
+int i,a,b,j,max_even,max_odd;
+// int x[100]; //
+printf("How many numbers:") ;
+scanf("%d",&n);
+int x[n] ;
 
 printf("Enter 10 numbers respectively: ");
    max_even=0;
