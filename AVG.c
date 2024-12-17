@@ -11,7 +11,7 @@ a=s/10.0;
 for(b=0;b<10;b++){
     if(x[b]>a){
         c++;
-        printf("The gre3ater value: %d\n",x[b]);
+        printf("The greater value: %d\n",x[b]);
     }
 }
 
