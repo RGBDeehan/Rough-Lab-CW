@@ -12,12 +12,12 @@ else{m=y;}
 for (i=2;i<=m;i++) {
     if (x%i==0 && y%i==0){
         a=i;
-        printf("GCD: %d/n",a);
+       
     }
 
 
 }
-
+ printf("GCD: %d/n",a);
 
 
 
