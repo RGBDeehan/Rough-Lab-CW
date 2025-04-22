@@ -1,0 +1,56 @@
+package User;
+public abstract class User {
+protected String name;    
+protected int userId,borrowedBooks;
+        
+        User(String namex, int userIdy, int borrowedBooksz){
+        this.name = namex ;
+        this,userId = userIdy ;
+        this.borrowedBooks = borrowedBooksz ;
+        
+        }
+       
+       abstract void returnBook(int n); /* this would be in student or teacher class
+       {
+            borrowedBooks-= n;
+        }
+        */
+        void viewBorrowedBooks(){
+        System.out.println("Book Borrowed: "+borrowedBooks);
+        System.out.println("");
+        System.out.println("");
+        
+        }
+        
+        
+        }
+
+
+
+
+
+
+
+
+
+//////////////////////
+
+
+package Book;
+public class java {
+    protected int bookId,availablecCopies;
+    protected String title,author;
+
+public java(String title,String author,int id){
+    this.bookId = id;
+    this.title =title;
+    this.author = author;
+    this.availablecCopies = 00;
+}  
+    public java(String title,String author,int copies,int id){
+    this.bookId = id;
+    this.title =title;
+    this.author = author;
+    this.availablecCopies = copies;
+}
+}
