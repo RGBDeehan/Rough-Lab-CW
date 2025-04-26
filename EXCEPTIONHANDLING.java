@@ -1,10 +1,11 @@
 
+
 package EXH;
 
 public class ExceptionHandling {
-    
-    
-           
+
+    public static void main(String[] args) {
+        
     
  /*
      double num1, num2 , result ;
@@ -18,7 +19,7 @@ public class ExceptionHandling {
      */   
       Voter v1 = new Voter("ABC",25);
       Voter v2 = new Voter("XYZ",17);
-      try{
+      try {
           v1.validateAge();
       }
     catch (CustomException e){
@@ -28,14 +29,11 @@ public class ExceptionHandling {
        try {
           v2.validateAge();
       }
-    catch(CustomException e2){
+    catch (CustomException e2){
         System.out.println("Caught exception: " + e2);
     
     }
       
       
     }
-
-
-    
-
+}
